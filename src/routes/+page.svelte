@@ -18,7 +18,7 @@
     showToast(await getLngLat(event));
   }}
   class="h-screen w-screen"
-  style="https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json"
+  style="https://tile.openstreetmap.jp/styles/osm-bright-ja/style.json"
   center={[142.78848876304016, 43.3316837806498]}
   zoom={6}
 />
